@@ -2,7 +2,7 @@
 
 ## Info
 
-### Dataset: aggle Dogs vs Cats(from Microsoft)
+### Dataset: kaggle Dogs vs Cats(from Microsoft)
 https://www.kaggle.com/c/dogs-vs-cats/data
 
 ## Requirements

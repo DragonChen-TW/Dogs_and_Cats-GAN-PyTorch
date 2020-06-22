@@ -1,4 +1,6 @@
 # PyTorch
+*.pt
+*.png
 
 .mypy_cache
 */*.pyc
